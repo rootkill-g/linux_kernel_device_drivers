@@ -9,10 +9,10 @@ can be loaded and unloaded at runtime as we wish. Hence reducing the efforts of
 compiling the kernel with `menuconfig` or another way (that's another rabbit 
 hole we'll be going down with later).
 
-> **NOTE:** Not All Device Drivers are to be necessarily to be compiled with 
-> The Linux kernel but only few are to be such as CPU drivers, Memory 
-> Controllers and a few others which are atomically necessary for boot process
-> to complete successfully.
+> **NOTE**
+> Not All Device Drivers are to be necessarily to be compiled with The Linux
+> Kernel but only few are to be such as CPU driver, Memory Controller and a few
+> others which are atomically necessary for successful completion of bootprocess
 
 > For the purpose of it, we'll need some tools on our system, I hope you're
 > using Fedora Linux too, so run the following command on your terminal :
