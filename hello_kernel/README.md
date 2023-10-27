@@ -201,7 +201,6 @@ Kernel module successfully unloaded!
 
 ## 🎉 Hurray We Have Now Created A Loadable Kernel Module!
 
-See you in the next one!
-
+### See you in the next one!
 ### 👋🏻 さよなら!
 ![Sayonara](../assets/sayonara.png)
