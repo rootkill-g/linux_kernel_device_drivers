@@ -1,0 +1,1 @@
+savedcmd_/home/rootkill/rootkill/lkmd/hello_kernel/hello_kernel.mod := printf '%s\n'   hello_kernel.o | awk '!x[$$0]++ { print("/home/rootkill/rootkill/lkmd/hello_kernel/"$$0) }' > /home/rootkill/rootkill/lkmd/hello_kernel/hello_kernel.mod

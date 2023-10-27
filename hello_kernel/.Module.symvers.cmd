@@ -1,0 +1,1 @@
+savedcmd_/home/rootkill/rootkill/lkmd/hello_kernel/Module.symvers :=  scripts/mod/modpost        -o /home/rootkill/rootkill/lkmd/hello_kernel/Module.symvers -n -T /home/rootkill/rootkill/lkmd/hello_kernel/modules.order -i Module.symvers -e 
