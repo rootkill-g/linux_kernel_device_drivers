@@ -14,8 +14,9 @@ hole we'll be going down with later).
 > Kernel but only few are to be such as CPU driver, Memory Controller and a few
 > others which are atomically necessary for successful completion of bootprocess
 
-For the purpose of it, we'll need some tools on our system, I hope you're using
-Fedora Linux too, so run the following command on your terminal :
+> **IMPORTANT**
+> For the purpose of it, we'll need some tools on our system, I hope you're using
+> Fedora Linux too, so run the following command on your terminal :
 
 ```bash
 sudo dnf install kernel-devel gcc make
