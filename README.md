@@ -45,6 +45,7 @@ ZFS, XFS, NFS, FAT, and other filesystems are LKMs (Loadable Kernel Modules) as
 they are loaded after the kernel loads these filesystems and mounts them after
 which the PID 1 starts.
 
-> **NOTE:** Each Directory have a README file which will explain the respective
+> **NOTE** 
+> Each Directory have a README file which will explain the respective
 > concept and procedure to follow and build Linux Kernel Drivers and Modules. 
 > See You There! 🎉
