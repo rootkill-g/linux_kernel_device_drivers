@@ -48,8 +48,8 @@ Great! Let's now create the init function.
 
 Now the real kernel programming starts 👾
 
-Let's define our init function (Or constructor, if you are that type) which will
-be called when our module will be loaded into the kernel using `insmod`
+Let's define our init function (Or constructor, if you prefer) which will be
+called when our module will be loaded into the kernel using `insmod`
 
 ```c
 static int __init hello_kernel_init(void)
