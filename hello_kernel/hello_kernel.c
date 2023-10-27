@@ -18,8 +18,8 @@ MODULE_VERSION("1:1.0");
  */
 static int __init hello_kernel_init(void)
 {
-  	pr_info("Hello Kernel. This is a LKM!");
-	pr_info("This is just for demonstration purpose.");
+  	pr_info("Hello Kernel. This is a LKM!\n");
+	pr_info("This is just for demonstration purpose.\n");
 	return 0;
 }
 
@@ -28,8 +28,8 @@ static int __init hello_kernel_init(void)
  */
 static void __exit hello_kernel_exit(void)
 {
-  	pr_info("See you soon!");
-  	pr_info("Hello Kernel Module Exited Successfully!");
+  	pr_info("See you soon!\n");
+  	pr_info("Hello Kernel Module Exited Successfully!\n");
 }
 
 /*

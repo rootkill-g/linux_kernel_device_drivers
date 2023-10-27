@@ -47,6 +47,6 @@ they are loaded after the kernel loads these filesystems and mounts them after
 which the PID 1 starts.
 
 > **NOTE** 
-> Each Directory have a README file which will explain the respective
-> concept and procedure to follow and build Linux Kernel Drivers and Modules. 
-> See You There! 🎉
+> Each Directory have a README file which will explain the respective <br />
+> concept and procedure to follow and build Linux Kernel Drivers and Modules.
+> <br /> See You There! 🎉
